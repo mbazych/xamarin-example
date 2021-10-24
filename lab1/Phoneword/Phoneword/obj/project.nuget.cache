@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "YyPz5zfp59ZDhJ94jANqeq7ZD3Uq6ZKL1b4wiHldB7nxFkDVeOAx8xcWQCJdR7iZp31l5KXIaJEQdcz6gnse2g==",
+  "success": true,
+  "projectFilePath": "/Users/mbazych/Projects/xamarin-forms/lab1/Phoneword/Phoneword/Phoneword.csproj",
+  "expectedPackageFiles": [
+    "/Users/mbazych/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/mbazych/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/mbazych/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/mbazych/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/mbazych/.nuget/packages/xamarin.forms/4.8.0.1269/xamarin.forms.4.8.0.1269.nupkg.sha512"
+  ],
+  "logs": []
+}
